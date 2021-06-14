@@ -1,0 +1,40 @@
+{
+  "name": "AniaCoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.3",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.2",
+    "@babel/preset-stage-2": "^7.8.3",
+    "@babel/preset-stage-3": "^7.8.3",
+    "@babel/register": "^7.13.16",
+    "@openzeppelin/test-environment": "^0.1.9",
+    "@openzeppelin/test-helpers": "^0.5.11",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-register": "^6.26.0",
+    "bignumber.js": "^9.0.1",
+    "bn.js": "^5.2.0",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "chai-bn": "^0.2.1",
+    "chia": "0.0.1",
+    "dotenv": "^10.0.0",
+    "openzeppelin-test-helpers": "^0.5.1",
+    "truffle": "^5.3.7",
+    "truffle-flattener": "^1.5.0",
+    "truffle-hdwallet-provider": "^1.0.17"
+  }
+}

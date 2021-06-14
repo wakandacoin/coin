@@ -37,7 +37,6 @@ contract('WakandaCoin', accounts => {
 
 		});	
 
-		/*** THIS IS JUST TESTING **/
 
 	});
 

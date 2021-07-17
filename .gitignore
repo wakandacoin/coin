@@ -1,3 +1,6 @@
 # IGNORE .env 
 .env
 .deployedCoinAbi.json
+WakandaCoin_copied_from_remix.json
+WakandaCoin_metadata_copied_from_remix.json
+.deployedByteCode
